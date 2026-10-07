@@ -33,6 +33,14 @@ Conducted a qualitative vulnerability assessment of a simulated e-commerce datab
 
 **Status:** ✅ Completed
 
+### 🔎 [SQL Security Investigation — Login & Employee Data Analysis](https://github.com/taahaidrees/sql-security-investigation)
+
+Investigated a simulated security scenario using SQL to analyze login activity and employee records. Applied filtering techniques to identify failed after-hours logins, suspicious-date activity, geographic login patterns, and employee systems requiring security updates.
+
+**Key Skills:** SQL • Security Analysis • Log Analysis • WHERE • AND/OR/NOT • LIKE • Pattern Matching
+
+**Status:** ✅ Completed
+
 ## 🎓 Certifications
 
 **Google Cybersecurity Professional Certificate**
