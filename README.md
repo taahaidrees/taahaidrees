@@ -49,6 +49,14 @@ Investigated a simulated web server compromise involving a brute-force attack ag
 
 **Status:** ✅ Completed
 
+### 🛡️ [Ransomware Incident Handler's Journal — Healthcare Phishing Incident](https://github.com/taahaidrees/ransomware-incident-journal)
+
+Documented a simulated healthcare ransomware incident initiated through a targeted phishing attack. Analyzed the attack path from malicious attachment and malware installation through ransomware deployment, file encryption, and operational disruption using the 5 W's incident-handling framework.
+
+**Key Skills:** Incident Handling • Ransomware Analysis • Phishing Analysis • Security Documentation • Incident Scoping • Recovery Planning
+
+**Status:** ✅ Completed
+
 ## 🎓 Certifications
 
 **Google Cybersecurity Professional Certificate**
