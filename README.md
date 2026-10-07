@@ -25,10 +25,13 @@ This portfolio documents my cybersecurity projects and demonstrates how I apply 
 
 Projects will be added as I build and document my cybersecurity portfolio.
 
-### 🔐 Vulnerability Assessment
-Conducted a vulnerability assessment of an e-commerce database server, evaluated potential threat sources and events, calculated risk levels, and developed remediation recommendations using NIST risk assessment principles.
+### 🔐 [Vulnerability Assessment — E-Commerce Database Server](https://github.com/taahaidrees/vulnerability-assessment)
 
-**Status:** In Progress
+Conducted a qualitative vulnerability assessment of a simulated e-commerce database server using NIST SP 800-30 Rev. 1 principles. Identified threat sources and events, evaluated likelihood and severity, calculated risk scores, and developed remediation recommendations.
+
+**Key Skills:** Risk Assessment • NIST SP 800-30 • CIA Triad • Access Control • RBAC • MFA
+
+**Status:** ✅ Completed
 
 ## 🎓 Certifications
 
