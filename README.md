@@ -41,6 +41,14 @@ Investigated a simulated security scenario using SQL to analyze login activity a
 
 **Status:** ✅ Completed
 
+### 🚨 [Security Incident Analysis — Brute-Force Web Server Compromise](https://github.com/taahaidrees/security-incident-analysis)
+
+Investigated a simulated web server compromise involving a brute-force attack against an administrative account, malicious JavaScript injection, an executable download, and redirection to a malicious website. Analyzed DNS and HTTP activity, documented the attack chain, and recommended two-factor authentication (2FA) as an authentication control.
+
+**Key Skills:** Incident Response • DNS • HTTP • tcpdump • Network Analysis • Brute-Force Analysis • Web Security • 2FA
+
+**Status:** ✅ Completed
+
 ## 🎓 Certifications
 
 **Google Cybersecurity Professional Certificate**
