@@ -65,6 +65,14 @@ Conducted a simulated internal security audit of Botium Toys, evaluating 14 secu
 
 **Status:** ✅ Completed
 
+### 🐍 [Python Allow List Algorithm — IP Access Control](https://github.com/taahaidrees/python-allow-list-algorithm)
+
+Developed and tested a Python algorithm in a simulated healthcare cybersecurity scenario to update an IP address allow list and manage access to restricted systems containing sensitive patient information. Automated the identification and removal of IP addresses designated for access revocation using file handling, list manipulation, loops, and conditional statements.
+
+**Key Skills:** Python • Security Automation • Access Control • File Handling • For Loops • Conditional Statements • String & List Manipulation
+
+**Status:** ✅ Completed
+
 ## 🎓 Certifications
 
 **Google Cybersecurity Professional Certificate**
