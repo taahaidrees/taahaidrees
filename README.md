@@ -57,6 +57,14 @@ Documented a simulated healthcare ransomware incident initiated through a target
 
 **Status:** ✅ Completed
 
+### 🛡️ [Internal Security Audit — Botium Toys](https://github.com/taahaidrees/botium-toys-security-audit)
+
+Conducted a simulated internal security audit of Botium Toys, evaluating 14 security controls and 12 compliance checklist items across PCI DSS, GDPR, and SOC. Identified security gaps involving access controls, data encryption, disaster recovery, backups, and intrusion detection. Documented audit findings and developed prioritized remediation recommendations to strengthen the organization's security posture.
+
+**Key Skills:** Security Auditing • Risk Assessment • Security Controls Evaluation • PCI DSS • GDPR • SOC • Access Control • Compliance Assessment • Remediation Planning
+
+**Status:** ✅ Completed
+
 ## 🎓 Certifications
 
 **Google Cybersecurity Professional Certificate**
