@@ -73,6 +73,14 @@ Developed and tested a Python algorithm in a simulated healthcare cybersecurity 
 
 **Status:** ✅ Completed
 
+### 🐧 [Linux File Permissions — Access Control & Least Privilege](https://github.com/taahaidrees/linux-file-permissions)
+
+Analyzed file and directory permissions in a simulated research-team security scenario, identifying excessive access and documenting Linux `chmod` commands to enforce least-privilege authorization. Interpreted permission strings, reviewed hidden files, and restricted unauthorized write and directory traversal permissions.
+
+**Key Skills:** Linux • Bash • chmod • ls -la • File Permissions • Access Control • Least Privilege
+
+**Status:** ✅ Completed
+
 ## 🎓 Certifications
 
 **Google Cybersecurity Professional Certificate**
